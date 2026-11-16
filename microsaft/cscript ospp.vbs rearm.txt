@@ -1,7 +1,0 @@
-file location copy and cmd going CD copy the location 
-
-
-cscript ospp.vbs /rearm
-
-file location
-OSPPREARM run this admi
